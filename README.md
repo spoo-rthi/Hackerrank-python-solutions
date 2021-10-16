@@ -1,1 +1,1 @@
-## This repo contains solutions for Hackerrank python solutions
+## This repo contains solutions for Hackerrank python problems
